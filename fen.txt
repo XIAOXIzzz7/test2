@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ewqeqw
+=======
+ewqeqw打打打哇大大wqfqwfqwfas
+>>>>>>> f7ebb508b055d60c59d04dd849c9a6bbb66bb3be
